@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/book-shopping-page/static/css/main.55186ee9.chunk.css",
+    "main.js": "/book-shopping-page/static/js/main.22ad0cbd.chunk.js",
+    "main.js.map": "/book-shopping-page/static/js/main.22ad0cbd.chunk.js.map",
+    "runtime-main.js": "/book-shopping-page/static/js/runtime-main.01011ee0.js",
+    "runtime-main.js.map": "/book-shopping-page/static/js/runtime-main.01011ee0.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/book-shopping-page/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a3b75b42.chunk.js": "/book-shopping-page/static/js/2.a3b75b42.chunk.js",
+    "static/js/2.a3b75b42.chunk.js.map": "/book-shopping-page/static/js/2.a3b75b42.chunk.js.map",
+    "index.html": "/book-shopping-page/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/book-shopping-page/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.55186ee9.chunk.css.map": "/book-shopping-page/static/css/main.55186ee9.chunk.css.map",
+    "static/js/2.a3b75b42.chunk.js.LICENSE.txt": "/book-shopping-page/static/js/2.a3b75b42.chunk.js.LICENSE.txt",
+    "static/media/book-1.4d539b1b.jpg": "/book-shopping-page/static/media/book-1.4d539b1b.jpg",
+    "static/media/book-2.16b10aab.jpg": "/book-shopping-page/static/media/book-2.16b10aab.jpg",
+    "static/media/book-3.dd50a09f.jpg": "/book-shopping-page/static/media/book-3.dd50a09f.jpg",
+    "static/media/book-4.cae58a28.jpeg": "/book-shopping-page/static/media/book-4.cae58a28.jpeg",
+    "static/media/book-5.4dc96b10.jpg": "/book-shopping-page/static/media/book-5.4dc96b10.jpg",
+    "static/media/book-6.64ec2b33.jpg": "/book-shopping-page/static/media/book-6.64ec2b33.jpg",
+    "static/media/book-7.b98938b3.jpg": "/book-shopping-page/static/media/book-7.b98938b3.jpg",
+    "static/media/book-8.29920d55.jpg": "/book-shopping-page/static/media/book-8.29920d55.jpg",
+    "static/media/cat-10th.be662c88.png": "/book-shopping-page/static/media/cat-10th.be662c88.png",
+    "static/media/cat-12th.9b6bc974.png": "/book-shopping-page/static/media/cat-12th.9b6bc974.png",
+    "static/media/cat-6th.8e3b4310.png": "/book-shopping-page/static/media/cat-6th.8e3b4310.png",
+    "static/media/cat-7th.16ac3540.png": "/book-shopping-page/static/media/cat-7th.16ac3540.png",
+    "static/media/cat-9th.d63711a6.png": "/book-shopping-page/static/media/cat-9th.d63711a6.png",
+    "static/media/cat-iit.03911d3a.jpeg": "/book-shopping-page/static/media/cat-iit.03911d3a.jpeg",
+    "static/media/login-img.e1dfd544.png": "/book-shopping-page/static/media/login-img.e1dfd544.png",
+    "static/media/logo.61b13070.png": "/book-shopping-page/static/media/logo.61b13070.png",
+    "static/media/posters.d204679b.webp": "/book-shopping-page/static/media/posters.d204679b.webp",
+    "static/media/sell-1.23ca329c.webp": "/book-shopping-page/static/media/sell-1.23ca329c.webp",
+    "static/media/sell-2.3830cb51.webp": "/book-shopping-page/static/media/sell-2.3830cb51.webp",
+    "static/media/sell-3.0b53bc2b.webp": "/book-shopping-page/static/media/sell-3.0b53bc2b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01011ee0.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a3b75b42.chunk.js",
+    "static/css/main.55186ee9.chunk.css",
+    "static/js/main.22ad0cbd.chunk.js"
+  ]
+}
